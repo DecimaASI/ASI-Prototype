@@ -15,7 +15,7 @@ This repository provides **source code, model weights, API endpoints, and a deta
 * **Dynamic Knowledge Expansion**: Continuously integrates new research papers, economic reports, and scientific discoveries.
 * **Self-Correction Mechanism**: Evaluates its own logic and prevents hallucinations or false responses.
 
-Installation
+## Installation
 
 1. Clone the Repository
 ```
