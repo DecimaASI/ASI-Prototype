@@ -1,3 +1,5 @@
+<img width="310" alt="decima_logo_new" src="https://github.com/user-attachments/assets/07189a1c-9c64-4ef5-ab15-906046bad909" /> 
+
 # Decima ASI - The World's First Artificial Super Intelligence Model
 
 ## Overview
@@ -147,5 +149,8 @@ This project is licensed under the **MIT License**.
 
 Welcome to the ASI revolution. Let's build the future of AI together.
 
+# Proudly
+
+<img width="327" alt="make_in_india" src="https://github.com/user-attachments/assets/480041c0-142e-4c2f-83d6-5399122c75b2" />  
 
 
