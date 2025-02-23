@@ -21,8 +21,8 @@ This repository provides **source code, model weights, API endpoints, and a deta
 
 1. Clone the Repository
 ```
-git clone https://github.com/Decima-Technologies/Decima-ASI.git
-cd Decima-ASI
+git clone https://github.com/DecimaASI/ASI-Prototype.git
+cd ASI-Prototype
 ```
 2. Set Up the Python Environment
 Decima ASI requires Python 3.9+ and the following dependencies:
@@ -31,8 +31,10 @@ pip install -r requirements.txt
 ```
 3. Download Pretrained ASI Model
 ```
-wget https://github.com/Decima-Technologies/Decima-ASI/releases/latest/download/decima_asi_model.pth
+wget https://github.com/DecimaASI/ASI-Prototype/asi_model.part01.rar
 ```
+Continue the same for downloading all files from part01.rar to part16.rar
+
 4. Run the ASI Model
 ```
 python run_asi.py
